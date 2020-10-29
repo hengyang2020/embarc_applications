@@ -156,5 +156,3 @@ uint8_t *passwordstring(void)
     return (uint8_t *)vstring;
 }
 	
-
-
